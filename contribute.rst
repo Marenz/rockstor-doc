@@ -141,9 +141,10 @@ We strongly encourage you to commit changes a certain way to help other
 developers and keep the merge process smooth. As a guiding principle, separate
 your changes into one or more logically independent commits.
 
-We request that you divide a commit message into three parts. Start the message
-with a single line summary, about 70 characters in length. Add a blank line
-after that. If you want to add more than a summary to your commit message,
+We request that you divide a commit message into two parts. Part one is the head line
+which should be a single line summary, about 70 characters in length. 
+Add a blank line after that. 
+Part two is optional: If you want to add more than a summary to your commit message,
 describe the change in more detail in plain text format where each line is no
 more than 80 characters. This description should be in present tense. Below is
 a fictional example::
